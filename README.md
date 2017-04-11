@@ -18,6 +18,6 @@ rostopic pub -1 /cmd std_msgs/Int16MultiArray "{data:[200, 200, -200, -200]}"
 ````
 
 TODOS
-* no support for stepper control.
-* integrate conversion of 4 values to a twist directly in this code (?)
+** no support for stepper control.
+** integrate conversion of 4 values to a twist directly in this code (?)
 
